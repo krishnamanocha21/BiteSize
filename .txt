@@ -1,0 +1,5 @@
+1. to initailize a  pyhton project use the 
+-> python -m venv venv
+
+3. dowload the following dependencies
+-> pip install google-genai pydantic python-dotenv
